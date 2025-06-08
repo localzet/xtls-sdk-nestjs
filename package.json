@@ -1,7 +1,7 @@
 {
   "name": "@localzet/xtls-sdk-nestjs",
   "version": "1.0.0",
-  "description": "TypeScript SDK for XRAY/AURA Core",
+  "description": "NestJS SDK for XRAY/AURA Core",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {

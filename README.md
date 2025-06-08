@@ -1,6 +1,6 @@
 <h1 align="center"><a href="#"><img src="https://static.zorin.space/assets/media/logos/ZorinProjectsSP.svg" alt="Image"></a></h1>
 
-# NestJS XTLS SDK Module
+<h3 align="center">NestJS SDK for XRAY/AURA Core</h3>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/localzet/xtls-sdk-nestjs)
 ![GitHub Repo stars](https://img.shields.io/github/stars/localzet/xtls-sdk-nestjs)
