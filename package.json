@@ -58,7 +58,7 @@
     "nice-grpc"
   ],
   "dependencies": {
-    "@nestjs/common": "^11.0.10",
+    "@nestjs/common": "^11.1.3",
     "@nestjs/core": "^11.0.10"
   },
   "peerDependencies": {
