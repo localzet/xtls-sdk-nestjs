@@ -97,15 +97,3 @@ export class YourService {
 ### Decorators
 
 - `@InjectXtls()`: Decorator for injecting the XTLS SDK instance
-
-## License
-
-AGPL-3.0-only
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Support
-
-For support, please open an issue in the GitHub repository.
