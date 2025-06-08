@@ -1,0 +1,77 @@
+{
+  "name": "@localzet/xtls-sdk-nestjs",
+  "version": "1.0.0",
+  "description": "TypeScript SDK for XRAY/AURA Core",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "prepublish": "rimraf build && tsc",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/localzet/xtls-sdk-nestjs.git"
+  },
+  "homepage": "https://github.com/localzet/xtls-sdk-nestjs#readme",
+  "bugs": {
+    "url": "https://github.com/localzet/xtls-sdk-nestjs/issues"
+  },
+  "author": "Ivan Zorin <creator@localzet.com>",
+  "license": "AGPL-3.0-only",
+  "keywords": [
+    "xray",
+    "xray-core",
+    "xtls",
+    "xtls-sdk",
+    "grpc",
+    "protobuf",
+    "protocol-buffers",
+    "typescript",
+    "sdk",
+    "api-client",
+    "xray-api",
+    "xray-grpc",
+    "proxy",
+    "v2ray",
+    "trojan",
+    "trojan-go",
+    "vless",
+    "vmess",
+    "shadowsocks",
+    "wireguard",
+    "networking",
+    "network-protocol",
+    "traffic-stats",
+    "user-management",
+    "inbound",
+    "outbound",
+    "reverse-proxy",
+    "metrics",
+    "observability",
+    "type-safe",
+    "typed-api",
+    "nodejs",
+    "grpc-client",
+    "grpc-typescript",
+    "grpc-protoc",
+    "grpc-nice",
+    "nice-grpc"
+  ],
+  "dependencies": {
+    "@nestjs/common": "^11.0.10",
+    "@nestjs/core": "^11.0.10"
+  },
+  "peerDependencies": {
+    "@localzet/xtls-sdk": ">=1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.9.0",
+    "@typescript-eslint/eslint-plugin": "7.2.0",
+    "@typescript-eslint/parser": "7.2.0",
+    "eslint": "8.56.0",
+    "eslint-config-prettier": "9.0.0",
+    "eslint-plugin-prettier": "5.0.0",
+    "rimraf": "^6.0.1",
+    "typescript": "5.6.3"
+  }
+}
