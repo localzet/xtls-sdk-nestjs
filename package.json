@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/localzet/xtls-sdk-nestjs.git"
   },
-  "homepage": "https://github.com/localzet/xtls-sdk-nestjs#readme",
+  "homepage": "https://github.com/localzet/xtls-sdk-nestjs",
   "bugs": {
     "url": "https://github.com/localzet/xtls-sdk-nestjs/issues"
   },
