@@ -16,7 +16,6 @@
 ![Known Vulnerabilities](https://snyk.io/test/github/localzet/xtls-sdk-nestjs/badge.svg)
 ![Coverage Status](https://img.shields.io/codecov/c/github/localzet/xtls-sdk-nestjs)
 
-
 ## Installation
 
 ```bash
